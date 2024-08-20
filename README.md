@@ -24,4 +24,5 @@ The project contains the following C# files:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrison-varnadoe-587624312) [Harrison Varnadoe](https://www.linkedin.com/in/harrison-varnadoe-587624312)
 
-![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) harrison.varnadoe@outlook.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harrison.varnadoe@outlook.com) <harrison.varnadoe@outlook.com>
+
