@@ -1,0 +1,14 @@
+C:\Dev\Iris-Data-Set-Ann\Iris-Data-Set-Ann\Iris-Data-Set-Ann\bin\Debug\net8.0\Iris-Data-Set-Ann.exe
+C:\Dev\Iris-Data-Set-Ann\Iris-Data-Set-Ann\Iris-Data-Set-Ann\bin\Debug\net8.0\Iris-Data-Set-Ann.deps.json
+C:\Dev\Iris-Data-Set-Ann\Iris-Data-Set-Ann\Iris-Data-Set-Ann\bin\Debug\net8.0\Iris-Data-Set-Ann.runtimeconfig.json
+C:\Dev\Iris-Data-Set-Ann\Iris-Data-Set-Ann\Iris-Data-Set-Ann\bin\Debug\net8.0\Iris-Data-Set-Ann.dll
+C:\Dev\Iris-Data-Set-Ann\Iris-Data-Set-Ann\Iris-Data-Set-Ann\bin\Debug\net8.0\Iris-Data-Set-Ann.pdb
+C:\Dev\Iris-Data-Set-Ann\Iris-Data-Set-Ann\Iris-Data-Set-Ann\obj\Debug\net8.0\Iris-Data-Set-Ann.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Iris-Data-Set-Ann\Iris-Data-Set-Ann\Iris-Data-Set-Ann\obj\Debug\net8.0\Iris-Data-Set-Ann.AssemblyInfoInputs.cache
+C:\Dev\Iris-Data-Set-Ann\Iris-Data-Set-Ann\Iris-Data-Set-Ann\obj\Debug\net8.0\Iris-Data-Set-Ann.AssemblyInfo.cs
+C:\Dev\Iris-Data-Set-Ann\Iris-Data-Set-Ann\Iris-Data-Set-Ann\obj\Debug\net8.0\Iris-Data-Set-Ann.csproj.CoreCompileInputs.cache
+C:\Dev\Iris-Data-Set-Ann\Iris-Data-Set-Ann\Iris-Data-Set-Ann\obj\Debug\net8.0\Iris-Data-Set-Ann.dll
+C:\Dev\Iris-Data-Set-Ann\Iris-Data-Set-Ann\Iris-Data-Set-Ann\obj\Debug\net8.0\refint\Iris-Data-Set-Ann.dll
+C:\Dev\Iris-Data-Set-Ann\Iris-Data-Set-Ann\Iris-Data-Set-Ann\obj\Debug\net8.0\Iris-Data-Set-Ann.pdb
+C:\Dev\Iris-Data-Set-Ann\Iris-Data-Set-Ann\Iris-Data-Set-Ann\obj\Debug\net8.0\Iris-Data-Set-Ann.genruntimeconfig.cache
+C:\Dev\Iris-Data-Set-Ann\Iris-Data-Set-Ann\Iris-Data-Set-Ann\obj\Debug\net8.0\ref\Iris-Data-Set-Ann.dll
